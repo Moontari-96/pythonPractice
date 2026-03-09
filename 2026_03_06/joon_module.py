@@ -1,0 +1,2 @@
+MY_LOCATION = "USA"
+MY_NATURAL_COUNTRY = "South Korea"
