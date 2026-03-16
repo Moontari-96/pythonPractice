@@ -1,0 +1,5 @@
+ID,Name,Email,JoinDate,Status
+1,Gildong Hong,gildong@example.com,2024-01-15,Active
+2,Jane Doe,jane.doe@test.com,2024-02-10,Pending
+3,Kim Chul-su,chulsu.kim@sample.net,2024-03-01,Inactive
+4,Lee Young-hee,young@provider.com,2024-03-12,Active
